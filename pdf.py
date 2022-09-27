@@ -14,7 +14,7 @@ def pdf_combiner(pdf_list):
 pdf_combiner(inputs)
 
 
-# with open('dum.pdf','rb') as file:
+# with open('dummmmy.pdf','rb') as file:
 # 	print(file)
 # 	reader = PyPDF2.PdfFileReader(file)
 # 	print(reader.numPages)
